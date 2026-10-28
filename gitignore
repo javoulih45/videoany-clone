@@ -1,0 +1,8 @@
+node_modules/
+data/uploads/*
+data/videos/*
+!data/uploads/.gitkeep
+!data/videos/.gitkeep
+.env
+*.log
+.DS_Store
